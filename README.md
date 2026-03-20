@@ -2,11 +2,9 @@
 
 ### Mobile Software Developer
 
-<p align="left"> <a href="https://avatars.githubusercontent.com/u/40248884?v=4"><img src="https://github-profile-trophy.vercel.app/?username=abanoub92" alt="abanoub92" /></a> </p>
-
 - 🔭 I'm currently working on **Deploy new releases (Android & iOS) of a Flutter project**
 
-- 🌱 I'm currently learning **I'm learning the Financial solution features such as: ISO 7816, ISO 8583, APDU Command execution and payment gateways and how to use it in an Android app**
+- 🌱 I'm currently learning **The Financial solution features such as: ISO 7816, ISO 8583, APDU Command execution and payment gateways and how to use it in an Android app**
 
 - 👯 I'm looking to collaborate on **Financial mobile apps**
 
