@@ -2,9 +2,7 @@
 
 ### Mobile Software Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abanoub92&label=Profile views&color=0e75b6&style=flat" alt="abanoub92" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanoub92" alt="abanoub92" /></a> </p>
+<p align="left"> <a href="https://avatars.githubusercontent.com/u/40248884?v=4"><img src="https://github-profile-trophy.vercel.app/?username=abanoub92" alt="abanoub92" /></a> </p>
 
 - 🔭 I'm currently working on **Deploy new releases (Android & iOS) of a Flutter project**
 
